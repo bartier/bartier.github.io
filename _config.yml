@@ -3,51 +3,57 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Vitor M. B. Anjos
+title: Intern @ Sensedia
+email: vitorbartier@hotmail.com
+# website: bartier.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  bartier
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: vitorbartier
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Sobre mim
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Oi! Me chamo Vitor e atualmente faço estágio na Sensedia na área de Support & Operation. Atualmente estou estudando <mark>AWS</mark> e <mark>Go</mark>.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Uso bastante no meu dia a dia: 
+  <mark>Python</mark>
+  <mark>Java</mark>
+  <mark>Docker</mark>
+  <mark>ShellScript</mark>
+  <mark>Jenkins</mark>
+  e a melhora ferramenta que resolva o problema. &#x1F603;
 
 # Projects Section
-# projects_title: Projects
+projects_title: Alguns projetos
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experiência
 
 # Education Section
-# educaton_title: Education
+education_title: Trajetória Acadêmica
 
 # More Section
-# more_title: A Little More About Me
+more_title: Um Pouco Mais Sobre Mim
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Além de gostar de programação e tudo mais, tenho interesse em:
+   - Counter-Strike: Global Offensive
+   - Paz Mundial
+   - Friends
+   - Stranger Things
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
