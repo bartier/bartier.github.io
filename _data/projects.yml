@@ -13,4 +13,4 @@
   quote: >
     Um projeto para aprender sobre o framework Scrapy do Python.
   description: | # this will include new lines to allow paragraphs
-    Tem um Spider que consegue obter 5000 verbos da ĺíngua portuguesa do <a href="https://www.conjugacao.com.br/">Conjugacao</a>. Pretendo criar mais spiders se ~sobrar tempo~.
+    Tem um Spider que consegue obter 5000 verbos da língua portuguesa do <a href="https://www.conjugacao.com.br/">Conjugacao</a>. Pretendo criar mais spiders se ~sobrar tempo~.
