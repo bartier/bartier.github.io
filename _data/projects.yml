@@ -5,12 +5,22 @@
   quote: >
     Um projeto para explicar e aprender mais sobre threads e recursos sendo compartilhado :)
   description: | # this will include new lines to allow paragraphs
-    Esse projeto foi desenvolvido durante meu técnico que realizei no COTUCA/UNICAMP. O único problema desse projeto é que desenvolvi em <mark>C#</mark>, o resto é perfeito.
+    Aplicação desenvolvida em C# para explicar o problema de threads consumindo um mesmo recurso. Esse problema é conhecido como 
+    "problema do produtor e consumidor". Ele foi desenvolvido durante meu técnico que realizei no COTUCA/UNICAMP na matéria de Sistemas Operacionais.
 - layout: top-middle
   name: conjugacaoScraper
   link: github.com/bartier/conjugacaoScraper
   github: bartier/conjugacaoScraper
   quote: >
-    Um projeto para aprender sobre o framework Scrapy do Python.
+    Um projeto de web scraping para aprender sobre o framework Scrapy do Python.
   description: | # this will include new lines to allow paragraphs
-    Tem um Spider que consegue obter 5000 verbos da língua portuguesa do <a href="https://www.conjugacao.com.br/">Conjugacao</a>. Pretendo criar mais spiders se ~sobrar tempo~.
+    Obtém uma listagem de 5000 verbos do site ​ https://www.conjugacao.com.br Projeto com o
+    objetivo de estudar o framework Scrapy e seu ecossistema de Spiders.
+- layout: top-middle
+  name: consulta-saldo-transurc
+  link: github.com/bartier/consulta-saldo-transurc
+  github: bartier/consulta-saldo-transurc
+  quote: >
+    Consulte saldo do seu bilhete único da Transurc.
+  description: | # this will include new lines to allow paragraphs
+    Projeto com o objetivo de estudar o framework Selenium, o pattern Page Object Model e conteinerização com Docker.
