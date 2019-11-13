@@ -24,15 +24,17 @@ linkedin_username: vitorbartier
 about_title: Sobre mim
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Oi! Me chamo Vitor e atualmente faço estágio na Sensedia na área de Support & Operation. Atualmente estou estudando <mark>AWS</mark> e <mark>Go</mark>.
+  Oi! Me chamo Vitor e atualmente faço estágio na Sensedia na área de Support & Operation.
 
-  Uso bastante no meu dia a dia: 
+  Gosto muito da área de DevOps e atualmente tenho tido bastante contado com:
+
+
   <mark>Python</mark>
   <mark>Java</mark>
   <mark>Docker</mark>
-  <mark>ShellScript</mark>
   <mark>Jenkins</mark>
-  e a melhor ferramenta que resolva o problema. &#x1F603;
+
+  Fique à vontade para acessar meu GitHub e verificar meus projetos open-source. Abaixo está em destaque meus projetos favoritos.
 
 # Projects Section
 projects_title: Alguns projetos
