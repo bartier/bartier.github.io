@@ -1,1 +1,0 @@
-# bartier.github.io
